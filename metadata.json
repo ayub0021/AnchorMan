@@ -1,0 +1,6 @@
+{
+  "name": "ANCHOR MAN",
+  "description": "Personal memory interception tool - catch quick thoughts, assignments, and reminders before they slip.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
